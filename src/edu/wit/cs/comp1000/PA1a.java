@@ -1,4 +1,5 @@
 package edu.wit.cs.comp1000;
+
 import java.util.Scanner;
 
 // TODO: document this class
